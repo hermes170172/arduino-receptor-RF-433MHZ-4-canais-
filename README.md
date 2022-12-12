@@ -1,5 +1,9 @@
 # arduino-receptor-RF-433MHZ-4-canais-
 
+<div display="inline-block">
+<img  height="100em" src="esquemas/PCI_FRENTE.png"/>
+<img  height="120em" src="esquemas/PCI_FUNDO.png"/>
+</div>
 
 Programa necessário para o desenvolvimento desse projeto -- IDE Arduino e se quiser alterar o layout da placa,
 use o Proteus Design Suite para fazer as mudanças e gerar um novo arquivo GERBER(arquivo necessário
