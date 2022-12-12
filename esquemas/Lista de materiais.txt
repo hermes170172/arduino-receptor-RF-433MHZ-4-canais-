@@ -1,0 +1,37 @@
+
+Lista dos principais componentes 'POR PLACA':
+
+01 -- placa de circuito impresso -- https://www.allpcb.com/activity/free-pcb-prototype-2021.html?
+campaignid=2077038631&adgroupid=76938191712&feeditemid=&targetid=kwd-354065758746&loc_physical_ms=1031811&matchtype=
+e&network=g&device=c&devicemodel=&creative=466679341398&keyword=jlcpcb&placement=&target=&adposition=&gclid=
+CjwKCAjwt8uGBhBAEiwAayu_9X6H1JAhBvRFY4mghTvMH9gdynvAgqitHovih9rJxvxZT-y7_KDqCBoCVIwQAvD_BwE 
+
+01 -- arduino pro-mini -- https://pt.aliexpress.com/item/32796297903.html?spm=a2g0s.9042311.0.0.b6cbb90aIzfy0n
+
+04 -- relés 5 volts -- https://pt.aliexpress.com/item/32613645669.html?spm=a2g0s.9042311.0.0.b6cbb90aIzfy0n
+
+01 -- modulo RF rx 433MHZ -- https://pt.aliexpress.com/item/1964101308.html?spm=a2g0o.productlist.0.0.
+f2d71f13izIzWV&algo_pvid=8c75d07d-d6ca-4f52-b356-c01a9ba5cf20&algo_exp_id=8c75d07d-d6ca-4f52-b356-c01a9ba5cf20-37
+
+01 -- CI ULN 2003A -- https://pt.aliexpress.com/item/4000569514618.html?spm=a2g0o.productlist.0.0.cc8a6f9481LWSG&algo_pvid=
+e730f04a-acd5-4ecd-9646-623f3715e6d0&algo_exp_id=e730f04a-acd5-4ecd-9646-623f3715e6d0-1
+
+02 -- Potenciometros 5K -- https://pt.aliexpress.com/item/32866991858.html?spm=a2g0s.9042311.0.0.b6cbb90aIzfy0n
+
+01 -- gravador de programas Cp2102 Conversor Usb Serial Ttl Arduino Pro Mini - 0172 -- https://produto.
+mercadolivre.com.br/MLB-735745614-cp2102-conversor-usb-serial-ttl-arduino-pro-mini-0172-_JM?matt_tool=87716990&matt_word=&matt_
+source=google&matt_campaign_id=12413740998&matt_ad_group_id=119070072438&matt_match_type=&matt_
+network=g&matt_device=c&matt_creative=500702333978&matt_keyword=&matt_ad_position=&matt_ad_type=
+pla&matt_merchant_id=354390894&matt_product_id=MLB735745614&matt_product_partition_id=337120033364&matt_target
+_id=pla-337120033364&gclid=EAIaIQobChMIz7OxpMev8QIVlg2RCh3MTgYqEAQYBSABEgLi5vD_BwE 
+
+Lista dos componentes comuns 'POR PLACA':
+
+01 fonte dc 5 volts 1 ou + amperes.
+01 chave push-button PBS 102105 N/A
+01 led 3mm
+01 diodo 1n 4004.
+01 resistor 330r
+02 resistores 100r
+01 Conector Dc Jack P4 Femea Pino Painel Rosca
+Fios finos para botoeira e led e fios medios para ligação do conector de alimentação e saída dos relés.
