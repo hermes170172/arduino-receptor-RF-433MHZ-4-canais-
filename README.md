@@ -1,6 +1,7 @@
 # arduino-receptor-RF-433MHZ-4-canais-
 
 <div display="inline-block">
+<img  height="100em" src="esquemas/layout.png"/>
 <img  height="100em" src="esquemas/PCI_FRENTE.png"/>
 <img  height="120em" src="esquemas/PCI_FUNDO.png"/>
 </div>
